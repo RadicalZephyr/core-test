@@ -1,0 +1,14 @@
+	OCaml Debugger version 4.02.0
+
+(ocd) Loading program... Testing ./test.sh failed.
+	OCaml Debugger version 4.02.0
+
+(ocd) Loading program... Hello Core!
+Time: 77
+Program exit.
+(ocd) 	OCaml Debugger version 4.02.0
+
+(ocd) Loading program... Hello, world!
+Time: 30
+Program exit.
+(ocd) 
