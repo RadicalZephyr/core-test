@@ -1,4 +1,4 @@
 open Core.Std
 
 let () =
-  printf "Hello Core!"
+  printf "Hello Core!\n"
